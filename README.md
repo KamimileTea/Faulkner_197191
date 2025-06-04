@@ -38,12 +38,8 @@ I'm really proud of all the experimentation I got to do and the code turned out 
 The code has an audio reaction attached to a geo created by a rectangle sop. I then used ramp and noise to create a white and pink background- one part being the noise that travels from the top of the screen down, and the other being the circles within the ramp function. I used absTime to change the phase of the circles, making them expand infinitely. I then composited the noise and the geo together and attached the audioinput to the moviefile out so you can hear the theme being played.
 This project inspired me to keep doing character themes, and I want to keep developing those ideas.
 
-Zagreus
+Zagreus.
 ZAGREUSSS. The Hades obsession returns. The goal for this one was to have one, spiky kind of shape trapped within a sphere. I really struggled with the colours and lighting in this one- everything was so dim for some time. I had a hard time figuring out how to show the two geos together in the render- it felt like every time I connected them I ended up with one non-wireframe ugly blob :((
 BUT we figured it out! (Turns out I hadn't added a material to the render tab in geo2)
 This was a lot of experimentation, a lot of backtracking and a lot of "ooh what if I..."
 I feel like I really pushed my technical and creative skills with this project, and in future I want to see how much I can expand on these ideas to create even more complex structures.
-
-
-Click the pencil icon to edit text!
-Then click "commit changes", then select "Commit directly to the main branch" and click "commit changes" again to save your text.
